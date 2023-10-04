@@ -1,0 +1,18 @@
+{
+    "playerControlSetting": [
+        {
+            "color":"red",
+            "up":"w",
+            "down":"s",
+            "right":"d",
+            "left":"a"
+        },
+        {
+            "color":"blue",
+            "up":"i",
+            "down":"k",
+            "right":"l",
+            "left":"j"
+        }
+    ]
+}
